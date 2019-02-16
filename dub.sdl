@@ -1,2 +1,4 @@
 name "test"
+#description "Some repo description"
+license "public domain"
 
